@@ -1,5 +1,3 @@
-[//]: # (https://www.pixiv.net/en/users/20570431/)
-
 <p align="center">
-    <img src="resources/lynette_111370163_p0.png" alt="lynette_portrait" width="480"/>
+    <img src="resources/columbina_99662780_p0.jpg" alt="lynette_portrait" width="80%"/>
 </p>
